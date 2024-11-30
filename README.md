@@ -5,4 +5,5 @@ Working with pandas reminds me of LEGO bricks, giving data different shape and o
 - import Images
 - see LEGO Taj Mahal with the massive 5922 pieces
 - visual chart, Number of parts in a LEGO set
+- forming new compact table, tidying up our data
 - in progress... I guess a work with data never ends...
